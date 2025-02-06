@@ -13,5 +13,6 @@ public class AdditionTest {
         assertEquals(-1, addition.add(-2, 1));
         assertEquals(-2, addition.add(-3, 1));
         assertEquals(-2, addition.add(-3, 1));
+        assertEquals(-4, addition.add(-3, -1));
     }
 }
