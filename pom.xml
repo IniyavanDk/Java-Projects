@@ -18,7 +18,7 @@
                         <manifest>
                             <addDefaultImplementationEntries>true</addDefaultImplementationEntries>
                             <addDefaultSpecificationEntries>true</addDefaultSpecificationEntries>
-                            <mainClass>com.example.MainClass</mainClass> <!-- Update this to your actual main class -->
+                            <mainClass>com.example.Main</mainClass> <!-- Update this to your actual main class -->
                         </manifest>
                     </archive>
                 </configuration>
