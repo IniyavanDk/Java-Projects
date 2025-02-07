@@ -16,12 +16,10 @@ on:
     branches: [ "main" ]
 
 permissions:
-  contents: write
-  dependency-submission: write
+  contents: write  # These permissions handle access for repository contents, including submitting snapshots.
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
