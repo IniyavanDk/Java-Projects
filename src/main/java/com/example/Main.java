@@ -17,7 +17,7 @@ public class Main {
         Addition addition = new Addition();
         int result = addition.add(num1, num2);
 
-        System.out.println("The result of addition is: " + result);
+        System.out.println("The result of addition is:      " + result);
 
         scanner.close();
     }
